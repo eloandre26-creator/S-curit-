@@ -1,0 +1,6 @@
+{
+  "name": "Phis Guard",
+  "description": "Détecteur de phishing et analyseur d'emails et d'URLs suspectes avec moteur de scoring heuristique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
